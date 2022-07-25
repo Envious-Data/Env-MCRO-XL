@@ -1,7 +1,8 @@
 # Env-MCRO-XL
  The XL version of my MCRO pad
 
-##
+##About:
+This is a XL version of my macro pad design but Ive been a bit undecided on what I want to do with this, At one point I thought about making it also double as a split keyboard but I think that is not worth doing within this project so Ill make that a seperate idea.
 
 ### KLE information and LAYOUT Macro
 ```json
