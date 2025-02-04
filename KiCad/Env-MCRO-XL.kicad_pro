@@ -642,6 +642,10 @@
     [
       "778141ea-948b-4419-89d5-1ee9253f8e3f",
       "Root"
+    ],
+    [
+      "d89f4756-77df-4b56-8451-79bdafd7873f",
+      "ssd1306_oled"
     ]
   ],
   "text_variables": {}

@@ -17269,6 +17269,44 @@
 			)
 		)
 	)
+	(sheet
+		(at 330.2 105.41)
+		(size 19.05 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d89f4756-77df-4b56-8451-79bdafd7873f")
+		(property "Sheetname" "ssd1306_oled"
+			(at 330.2 104.6984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ssd1306_oled.kicad_sch"
+			(at 330.2 118.6946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Env-MCRO-XL"
+				(path "/778141ea-948b-4419-89d5-1ee9253f8e3f"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
